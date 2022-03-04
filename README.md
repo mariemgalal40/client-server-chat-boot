@@ -24,7 +24,7 @@ A Simple system contains client(workstation) and server(PACS) exchange data(imag
 
 we tried to make a PACS service that enables the doctor to store an image in the database or retrieve image from the database with its ID which is in our database folder is from 1 to 41  
 
-<img src="readme/GUI.PNG" alt="gUI" width="600" height="300"/>
+<img src="readme/gui.PNG" alt="gUI" width="600" height="300"/>
 We built a server using socket library in Python that allowed us to generate communication with the clients using TCP/IP connection.
 
 <img src="readme/new_connection.PNG" alt="new_connection" width="600" height="300"/>
